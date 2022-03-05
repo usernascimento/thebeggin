@@ -1,0 +1,7 @@
+msgDlg("Denke dir eine beliebige Zahl zwischen eins und zehn aus!")
+msgDlg("Multipliziere die Zahl mit 5.")
+msgDlg("Verdopple die Zahl.")
+msgDlg("Teile die Zahl jetzt durch die Zahl, die du dir am Anfang ausgesucht hat.")
+msgDlg("Ziehe 7 von der momentanen Zahl ab.")
+msgDlg("Jetzt sage ich dir, welche Zahl du gerade hast.Es ist die...")
+msgDlg("DREI!")
